@@ -1,0 +1,94 @@
+{"Data":{
+    "AboutMe":"my name is Mohammad and im a student at life choices ",
+    "Projects":[
+        {
+           "name":"calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/Hulu-clone.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/swegga-.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        }
+    ],
+    "education":[
+        {
+            "description":"i studied computer science",
+            "year":"2nd April- to present",
+            "placeOfInstitution":"",
+            "contact":[{
+                    "name":"Mohammad",
+                    "contactDetails":"08012345678"
+                }
+            ]
+        }
+    ],
+    "workExp":[
+        {
+            "jobTitle":"Software Developer",
+            "year":"",
+            "companyName":"",
+            "description":"i worked on ",
+            "contact":[{
+                "name":"Mohammad",
+                "cell":"08012345678",
+                "position":""
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "level":"intermediate"
+        }
+    ],
+    "Testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        }
+    ]
+}
+}
