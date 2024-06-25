@@ -1,6 +1,6 @@
 {"Data":{
-    "AboutMe":"my name is Mohammad and im a student at life choices ",
-    "Projects":[
+    "aboutMe":"my name is Mohammad and im a student at life choices ",
+    "projects":[
         {
            "name":"calculator",
            "github":"https://github.com/kiara-adams/calculator2.git",
@@ -83,7 +83,7 @@
             "level":"intermediate"
         }
     ],
-    "Testimonials":[
+    "testimonials":[
         {
             "name":"",
             "position":"",
