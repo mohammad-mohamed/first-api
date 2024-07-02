@@ -1,13 +1,13 @@
-{"data":{
+{
     "aboutMe":[
         {
             "description":"As a passionate and innovative software engineer, I thrive on turning complex challenges into efficient solutions. My adaptability, strong problem-solving skills, and dedication to continuous learning make me a valuable asset in any dynamic tech environment. In my personal life, I'm an avid basketball player and fitness enthusiast, hitting the gym daily, play video games and learn to code in my free time.",
-            "Full Name":"Mohammad Mohamed",
-            "Date of birth":"16/09/2003",
-            "Address":"Lansdowne, CapeTown, Western Cape",
-            "Email":"mohammad.mhm16@gmail.com",
-            "Number":"083 385 8267",
-            "Freelance":"Yes"
+            "fullname":"Mohammad Mohamed",
+            "dateofbirth":"16/09/2003",
+            "address":"Lansdowne, CapeTown, Western Cape",
+            "email":"mohammad.mhm16@gmail.com",
+            "number":"083 385 8267",
+            "freelance":"Yes"
         }
     ],
     "projects":[
@@ -100,5 +100,5 @@
             "message":""
         }
     ]
-    }
 }
+
