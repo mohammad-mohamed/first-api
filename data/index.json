@@ -10,69 +10,64 @@
             "freelance":"Yes"
         }
     ],
-    "projects":[
-        {
-           "name":"calculator",
-           "github":"https://github.com/kiara-adams/calculator2.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/Hulu-clone.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/swegga-.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/calculator2.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/calculator2.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/calculator2.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        },
-        {
-           "name":"BMI calculator",
-           "github":"https://github.com/kiara-adams/calculator2.git",
-           "vercel":"https://github.com/kiara-adams/calculator2.git",
-           "description":"i used ",
-           "images":"url"
-        }
-    ],
-    "education":[
-        {
-            "description":"i studied computer science",
-            "year":"2nd April- to present",
-            "placeOfInstitution":"",
-            "contact":[{
-                    "name":"Mohammad",
-                    "contactDetails":"08012345678"
-                }
-            ]
-        }
-    ],
+        "projects": [
+            {
+                "name": "Calculator",
+                "github": "https://github.com/mohammad-mohamed/webExercise3",
+                "vercel": "https://web-exercise3.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/calculater.png"
+            },
+            {
+                "name": "Keyboard",
+                "github": "https://github.com/mohammad-mohamed/webExercise4",
+                "vercel": "https://web-exercise4.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/Keyboard.png"
+            },
+            {
+                "name": "Cars",
+                "github": "https://github.com/mohammad-mohamed/webExercise2",
+                "vercel": "https://web-exercise2-uplw.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/web2.png"
+            },
+            {
+                "name": "Wednesday",
+                "github": "https://github.com/mohammad-mohamed/wednesday",
+                "vercel": "https://wednesday-ruddy.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/Wednesday.png"
+            },
+            {
+                "name": "Hulu Clone",
+                "github": "https://github.com/mohammad-mohamed/hulu",
+                "vercel": "https://hulu-drab-gamma.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/hulu.png"
+            },
+            {
+                "name": "Hosting",
+                "github": "https://github.com/mohammad-mohamed/hosting",
+                "vercel": "https://hosting-zeta-nine.vercel.app/",
+                "images": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Images/hosting.png"
+            }
+        ],
+        "education": [
+            {
+                "degree": "Matriculate from Islamia College",
+                "institution": "Islamia College",
+                "dates": "Jan 2009 - Dec 2021",
+                "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/211f34f1abb25f7bd9a25ae32d624e8614ff517d951207b626f033c26ad08c39?apiKey=0bccd99636064f128fb65b1d52624404&"
+            },
+            {
+                "degree": "Software Engineer from WeThinkCode",
+                "institution": "WeThinkCode",
+                "dates": "Sept 2022 - Dec 2023",
+                "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/211f34f1abb25f7bd9a25ae32d624e8614ff517d951207b626f033c26ad08c39?apiKey=0bccd99636064f128fb65b1d52624404&"
+            },
+            {
+                "degree": "Life Choices Coding Academy",
+                "institution": "Life Choices Coding Academy",
+                "dates": "Apr 2024 - Present",
+                "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/211f34f1abb25f7bd9a25ae32d624e8614ff517d951207b626f033c26ad08c39?apiKey=0bccd99636064f128fb65b1d52624404&"
+            }
+        ],
     "workExp":[
         {
             "jobTitle":"Software Developer",
@@ -87,18 +82,56 @@
             ]
         }
     ],
-    "skills":[
+    "skills": [
         {
-            "name":"HTML",
-            "level":"intermediate"
+            "skill": "https://iili.io/J74jca2.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74j0y7.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74jEu9.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74jrMJ.md.png"
+        },
+        {
+            "skill": "https://iili.io/J74jvu1.md.png"
+        },
+        {
+            "skill": "https://iili.io/Jjnn75v.md.png"
         }
     ],
-    "testimonials":[
-        {
-            "name":"",
-            "position":"",
-            "message":""
-        }
-    ]
+        "testimonials": [
+          {
+            "name": "Caleb",
+            "surname": "Okkers",
+            "quotes": "Mohammad is a critical thinker and a diligent worker. He is a strong problem solver who thrives when working alone or in a collaborative setting. He is always willing to lend a helping hand and explains things clearly. As a person he is one of the kindest people I've ever met, I've reiterated this to quite a few people.  He has a great sense of humour and is a joy to be around. Mohammad would be an incredible asset to any organization.",
+            "profile": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Testi_people_img/Caleb.jpg"
+          },
+          {
+            "name": "Gwiba",
+            "surname": "Mabandla",
+            "quotes": "Mohammad is an exceptionally good teammate and person, he likes encountering new challenges and finding new ways to problem. He really thinks outside the box and genuinely smart, I have always admired those features about him.",
+            "profile": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Testi_people_img/Gwiba.jpg"
+          },
+          {
+            "name": "Kiara",
+            "surname": "Adams",
+            "quotes": "Mohammed's presence lights up any room, blending intelligence, humility, and kindness. His commitment to excellence is unwavering, tackling challenges with determination and diligence. Beyond his stellar work, he offers steadfast support and encouragement to others, embodying genuine character.",
+            "profile": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Testi_people_img/Kiara.jpg"
+          },
+          {
+            "name": "Zakariya",
+            "surname": "Salie",
+            "quotes": "Mohammad Mohamed is not only a coding genius but also an exceptional individual with a remarkable personality. His unparalleled expertise in IT and coding is matched by his dedication, creativity, and problem-solving skills. Mohammad's positive attitude, teamwork, and integrity make him a valuable asset both professionally and personally. Working with him is a pleasure, and his contributions elevate any team he's a part of. In short, Mohammad is an outstanding coder and an even better person.",
+            "profile": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Testi_people_img/Zaki.jpg"
+          },
+          {
+            "name": "Matthew",
+            "surname": "Brown",
+            "quotes": "Mohammad is an extremely hardworking individual who is eager and dedicated. His personality and character make it easier for him to work in a team. His dedication and passion promotes his ability to always complete his tasks and go over and beyond.",
+            "profile": "https://mohammad-mohamed.github.io/hostedImages/images/Portfolio/Testi_people_img/Matthew (1).png"
+          }
+        ]
 }
-
